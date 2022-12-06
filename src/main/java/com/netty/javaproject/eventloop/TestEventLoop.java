@@ -5,7 +5,6 @@ import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 
 import java.util.concurrent.TimeUnit;
-import java.util.logging.Logger;
 
 public class TestEventLoop {
     public static void main(String[] args) {
